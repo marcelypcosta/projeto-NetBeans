@@ -32,7 +32,7 @@ O objetivo é fazer um CRUD de entidade usando o MySQL com JDBC e netbeans, onde
 
 <h3 id="acesso">Acesso ao projeto</h3>
 <hr>
-<p>Você pode<a href=""> baixar</a> nosso projeto no arquivo zip do repositório</p>
+<p>Você pode<a href="https://github.com/marcelypcosta/projeto-NetBeans/blob/main/Contatos.zip"> baixar</a> nosso projeto no arquivo zip do repositório</p>
 
 <h3 id="desenvolvedores">Desenvolvedores</h3>
 <hr>
